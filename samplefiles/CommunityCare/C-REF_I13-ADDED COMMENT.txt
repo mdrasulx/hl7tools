@@ -1,0 +1,99 @@
+MSH|^~\&|GMRC CCRA SEND|534|GMRC CCRA RECEIVE|200|20200805110157-0500||REF^I13|500300859|T|2.5|||AL|AL|USA
+RF1|IP^ADDED COMMENT|ROUTINE|97^COMMUNITY CARE-HEMATOLOGY/ONCOLOGY^^8957^COMMUNITY CARE-HEMATOLOGY/ONCOLOGY||I|500_5191|202008051037-0500||||
+PRD|RP|GINIEWSKI^PATTY^^^^^^^520824658|^^^^||^^^GLORIA.GINIEWSKI@VA.GOV^^^||4233221140
+PID|1|1005400997V658175|1005400997V658175^^^USVHA&&0363^NI^VA FACILITY ID&200M&L~555782345^^^USSSA&&0363^SS^VA FACILITY ID&500&L~^^^USDOD&&0363^TIN^VA FACILITY ID&500&L~^^^USDOD&&0363^FIN^VA FACILITY ID&500&L~101108^^^USVHA&&0363^PI^VA FACILITY ID&500&L~50012345V123456^^^USVHA&&0363^NI^VA FACILITY ID&500&L^^20181128~6420100667V447899^^^USVHA&&0363^NI^VA FACILITY ID&200M&L^^20181204~6420100667V447899^^^USVHA&&0363^NI^VA FACILITY ID&200M&L^^20181204~6420100667V447899^^^USVHA&&0363^NI^VA FACILITY ID&200M&L^^20181204||HSRMPAT^PATTY^^^^^L~^^^^^^N|BRYANT^^^^^^M|19721116|F||0000-0-SLF^^0005^0000-0^^CDC|1443 CAPRI RD^^WINSTON SALEM^NC^27103-1111^USA^P^^067~^^CHICAGO^IL^^^N~333 WASHINGTON STREET^^BULL VALLEY^IL^60012-1234^USA^VACAA^^111^^^20190202&20220630~123 ANYWHERE STREET^^CARY^IL^60013^USA^R^^111|067|(312)222-5555^PRN^PH~(888)234-1234^WPN^PH~(888)123-1234^ORN^CP~(888)123-1235^BPN^BP~^NET^INTERNET^GLORIA.GINIEWSKI@VA.GOV~(888)567-2345^VACPN^PH|(888)234-1234||M|40||555782345|||0000-0-SLF^^0189^0000-0^^CDC|CHICAGO IL||||||||
+IN1|1||3|HEALTH INSURANCE PLUS|ANYSTREET^^ANYTOWN^WV^99990^USA^M||""|TEAM2|GPCCRA|||20180901|""||CI|HSRMPAT,PATTY|v||||SECONDARY||||||||20190411|||**||||SUBPID
+IN3||||||||||||||||||||^YES
+IN1|2||4|BLUE CROSS/ANTHEM|123 INSURANCE STREET^^CHICAGO^IL^60611-5885^USA^M||(876)897-5678|1230987|BCBS PLAN 01|||20180901|""||CI|GINIEWSKI,PATTY|o||||TERTIARY||||||||20190411|||NO||||SUBPID
+IN3||||||||||||||||||||^YES
+IN1|3||11|BANKERS LIFE|111 E. WACKER DR^SUITE 2100^CHICAGO^IL^60601-4508^USA^M||(888)123-1234|GRP-01|BANKERS LIFE|||20180901|""||12|HSRMPAT,PATTY|v||||TERTIARY||||||||20190411|||*||||SUBPID
+IN3||||||||||||||||||||^YES
+IN1|4||8|BLUE CROSS & BS IL|300 E Randolph St^^CHICAGO^IL^60601-5099^USA^M||""|1234|GNCCRA-123|||20180901|""||BL|HSRMPAT,PATTY|v||||PRIMARY||||||||20190411|||YES||||SUPID
+IN3||||||||||||||||||||^YES
+IN1|5||25|ACADEMY LIFE-TRICARE SUPP|P.O. Box 7889^^Madison^WI^53707-7889^USA^M||(888)678-9876|TRI1234|TRIGROUP|||20190201|""||CH|HSRMPAT,PATTY|v||||PRIMARY||||||||20190411|||YES||||SUBPID
+IN3||||||||||||||||||||^YES
+IN1|6||26|MEDICARE (WNR) PART D|PO Box 1270^^Lawrence^KS^66044-1234^USA^M||(888)123-1234|MEDGRP1|MEDICAREGRP|||20190201|""||MX|HSRMPAT,PATTY|v||||PRIMARY||||||||20190411|||NO||||SUBPID
+IN3||||||||||||||||||||^YES
+IN1|7||27|MEDICAID PA (WNR)|PO BOX 123^^YORK^PA^12345-1234^USA^M||88 (823)278-6789|CAID|[D|||20190201|""||MC|HSRMPAT,PATTY|v||||PRIMARY||||||||20190411|||NO||||SUPID
+IN3||||||||||||||||||||^YES
+IN1|8||30|MEDICAID ALABAMA|123 NEW ADDRESS^^MOBILE^AL^12345-6789^USA^M||""|MED01|MEDPLAN|||20190401|""||MC|HSRMPAT,PATTY|v||||PRIMARY||||||||20190411|||YES||||SUBPID
+IN3||||||||||||||||||||^YES
+IN1|9||23|NEW_INSURANCE_TEST|123 NEW INSURANCE AVE^^CHICAGO^IL^60001-1234^USA^M||""|NEW123|NEW|||20190617|""||HM|HSRMPAT,PATTY|v||||PRIMARY|||||||||||YES||||SUBPID
+IN3||||||||||||||||||||^YES
+DG1|1||V98.3XXA^Accident to, on or involving Ski Lift, Initial Encounter|||W
+OBR|1|52807;5174^OR|5191;GMRC^GMRC|ZZ||20200805
+PV1|1|I|54^OBSERVATION^^&595||||10000000277^GUPTA,POONAM|||||||||R|10000000277^GUPTA,POONAM
+NTE|1||Author\R\\R\GINIEWSKI,PATTY
+NTE|2||Datetime\R\\R\20200805110157-0500
+NTE|3||Comment\R\\R\
+NTE|4|L|Activity Comment
+NTE|5||SEOC - VHA Office of Community Care--------------------
+NTE|6||VHA Office of Community Care - Standardized Episode of Care
+NTE|7||Acupuncture Initial
+NTE|8||CAT-SEOC CoC: ACUPUNCTURE
+NTE|9||SEOC ID: PMR_ACUPUNCTURE INITIAL_1.0.8
+NTE|10||Description: This authorization covers services associated with the
+NTE|11||specialty(s) identified for this episode of care, including all medical
+NTE|12||care listed below relevant to the referred care specified on the consult
+NTE|13||order.
+NTE|14||Duration: 60 days
+NTE|15||Procedural Overview:
+NTE|16||1.   Initial outpatient evaluation for this episode of care
+NTE|17||2.   Twelve (12) acupuncture visits maximum is approved for this episode
+NTE|18||of care. Approved services include acupuncture with or without
+NTE|19||electrostimulation. A maximum of one additional unit of acupuncture (with
+NTE|20||or without electrostimulation) is allowed when the re-insertion of needles
+NTE|21||is supported in medical documentation.
+NTE|22||3.   If indicated, approved modalities that can be utilized during the
+NTE|23||approved acupuncture visits noted in #2 above can include: manual therapy
+NTE|24||and therapeutic exercise procedures including but not limited to:
+NTE|25||cupping, myofascial release, and therapeutic exercises.
+NTE|26||4.  Outpatient re-evaluation during this episode of care as clinically
+NTE|27||indicated.
+NTE|28||*Additional acupuncture care beyond this trial must provide documentation
+NTE|29||of:  Objective measures demonstrating the extent of meaningful clinical
+NTE|30||improvement to date; and rationale for the additional treatment requested
+NTE|31||(e.g. to reach further durable improvement, or for ongoing pain
+NTE|32||management); and any further information supporting the need for
+NTE|33||additional care
+NTE|34||*Please visit the VHA Storefront
+NTE|35||www.va.gov/COMMUNITYCARE/providers/index.asp
+NTE|36||for additional resources and requirements pertaining to the following
+NTE|37||* Pharmacy prescribing requirements
+NTE|38||* Durable Medical Equipment (DME), Prosthetics, and Orthotics prescribing
+NTE|39||requirements
+NTE|40||* Precertification (PRCT) process requirements
+NTE|41||* Request for Services (RFS) requirements
+NTE|42||SEO-------------------------------------------------
+NTE|43||SEV-Community Care Eligibility: Drive Time
+NTE|44||As an alternative to a face-to-face appointment:
+NTE|45||TEL-Telephone Appointment may be offered to the Veteran
+NTE|46||THL-Telehealth Appointment may be offered to the Veteran
+NTE|47||CAP-Community Care Approved, Program:
+NTE|48||Authorized/Pre-authorized Referral - 1703
+NTE|49||Admin Screening for Care Coordination
+NTE|50||SCD-Screening Code: 070-77-TC-M-XX
+NTE|51||Urgency: not within 48 hrs
+NTE|52||CAN Score not available in CDW
+NTE|53||CAN Score: 75 to 90
+NTE|54||Admin Screening=Moderate
+NTE|55||Clinical Screening for Care Coordination
+NTE|56||TCD-Clinical Triage Code: 034-77-TC-M
+NTE|57||Significant Comorbidities: yes
+  Significant Psychosocial Issues: yes
+
+NTE|58||ADL Support Needed: yes
+NTE|59||Care Coordination Level manually set.
+NTE|60||Reason: HEAD INJURY - BLEEDING
+NTE|61||Clinical Triage Care Coordination: Moderate
+NTE|62||Clinical Triage: Complete
+NTE|63||After the appointment has been scheduled, the integrated team should
+NTE|64||proceed to coordinate are based on the Veteran's needs.
+NTE|65||Moderate care coordination may include:
+NTE|66||-assistance with navigation
+NTE|67||-scheduling
+NTE|68||-post-appointment follow-up
+NTE|69||-monitoring and coordination of preventative services
+NTE|70||Recommended frequency of contact: monthly to quarterly
+NTE|71||Admin Staff alert, sending to: GINIEWSKI, PATTY
+NTE|72||ICR-Initiate Community Care Referral
