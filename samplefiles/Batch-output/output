@@ -1,0 +1,5 @@
+process ::1 9999 .\samplefilesCommunityCare\A-REF_I12-CPRS-RELEASED.txt -c 200_0000000300 -i 200v0000000100 -n "Babum,Sarmin100" -nt -rt -st -w 1
+process ::1 9999 .\samplefilesCommunityCare\A-REF_I12-CPRS-RELEASED.txt -c 200_0000000301 -i 200v0000000101 -n "Babum,Sarmin101" -nt -rt -st -w 1
+process ::1 9999 .\samplefilesCommunityCare\A-REF_I12-CPRS-RELEASED.txt -c 200_0000000302 -i 200v0000000102 -n "Babum,Sarmin102" -nt -rt -st -w 1
+process ::1 9999 .\samplefilesCommunityCare\A-REF_I12-CPRS-RELEASED.txt -c 200_0000000303 -i 200v0000000103 -n "Babum,Sarmin103" -nt -rt -st -w 1
+process ::1 9999 .\samplefilesCommunityCare\A-REF_I12-CPRS-RELEASED.txt -c 200_0000000304 -i 200v0000000104 -n "Babum,Sarmin104" -nt -rt -st -w 1
