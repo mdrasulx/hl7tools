@@ -1,0 +1,42 @@
+
+
+
+
+
+Tools Directory 
+=======================
+cd Documents/HL7-Cloned/hl7tools
+
+Runn ALl COmmand In Batchoutput Together Via this Command 
+============================================================
+RunALL.cmd ".\samplefiles\Batch-output\batch-output"
+
+
+Experimental 
+=====================
+type .\samplefiles\Batch-output\batch-output|cmd
+cmd < .\samplefiles\Batch-output\batch-output
+
+Samples From Patty ICN & CID
+=============================
+Hl7Generator.exe process 10.247.79.21 56004 ".\samplefiles\CommunityCare\A-REF_I12-CPRS-RELEASED.txt" -c 500_22301 -i 1013176934V332684 -n "HSRMPAT,Patty" -nt -rt -st -w 1
+Hl7Generator.exe process 10.247.79.21 56004 ".\samplefiles\CommunityCare\A-REF_I12-CPRS-RELEASED.txt" -c 500_22302 -i 1013176934V332684 -n "HSRMPAT,Patty" -nt -rt -st -w 1
+Hl7Generator.exe process 10.247.79.21 56004 ".\samplefiles\CommunityCare\A-REF_I12-CPRS-RELEASED.txt" -c 500_22303 -i 1013176934V332684 -n "HSRMPAT,Patty" -nt -rt -st -w 1
+Hl7Generator.exe process 10.247.79.21 56004 ".\samplefiles\CommunityCare\A-REF_I12-CPRS-RELEASED.txt" -c 500_22304 -i 1013176934V332684 -n "HSRMPAT,Patty" -nt -rt -st -w 1
+Hl7Generator.exe process 10.247.79.21 56004 ".\samplefiles\CommunityCare\A-REF_I12-CPRS-RELEASED.txt" -c 500_22305 -i 1013176934V332684 -n "HSRMPAT,Patty" -nt -rt -st -w 1
+
+
+Hl7Generator.exe process 10.247.79.21 56003 ".\samplefiles\CommunityCare\A-REF_I12-CPRS-RELEASED.txt" -c 500_5424 -i 1013176933V150799 -n "MD,Rasul101" -nt -rt -st -w 1
+
+Sample Initial Files For MISC Reason 
+=============================
+Hl7Generator.exe process ::1 9999 .\samplefiles\CommunityCare\A-REF_I12-CPRS-RELEASED.txt -c 700_0000000800 -i 700v0000000600 -n "LastName,FirstName600" -nt -rt -st -w 1
+Hl7Generator.exe process ::1 9999 .\samplefiles\CommunityCare\A-REF_I12-CPRS-RELEASED.txt -c 700_0000000801 -i 700v0000000601 -n "LastName,FirstName601" -nt -rt -st -w 1
+Hl7Generator.exe process ::1 9999 .\samplefiles\CommunityCare\A-REF_I12-CPRS-RELEASED.txt -c 700_0000000802 -i 700v0000000602 -n "LastName,FirstName602" -nt -rt -st -w 1
+Hl7Generator.exe process ::1 9999 .\samplefiles\CommunityCare\A-REF_I12-CPRS-RELEASED.txt -c 700_0000000803 -i 700v0000000603 -n "LastName,FirstName603" -nt -rt -st -w 1
+Hl7Generator.exe process ::1 9999 .\samplefiles\CommunityCare\A-REF_I12-CPRS-RELEASED.txt -c 700_0000000804 -i 700v0000000604 -n "LastName,FirstName604" -nt -rt -st -w 1
+Hl7Generator.exe process ::1 9999 .\samplefiles\CommunityCare\A-REF_I12-CPRS-RELEASED.txt -c 700_0000000805 -i 700v0000000605 -n "LastName,FirstName605" -nt -rt -st -w 1
+Hl7Generator.exe process ::1 9999 .\samplefiles\CommunityCare\A-REF_I12-CPRS-RELEASED.txt -c 700_0000000806 -i 700v0000000606 -n "LastName,FirstName606" -nt -rt -st -w 1
+Hl7Generator.exe process ::1 9999 .\samplefiles\CommunityCare\A-REF_I12-CPRS-RELEASED.txt -c 700_0000000807 -i 700v0000000607 -n "LastName,FirstName607" -nt -rt -st -w 1
+Hl7Generator.exe process ::1 9999 .\samplefiles\CommunityCare\A-REF_I12-CPRS-RELEASED.txt -c 700_0000000808 -i 700v0000000608 -n "LastName,FirstName608" -nt -rt -st -w 1
+Hl7Generator.exe process ::1 9999 .\samplefiles\CommunityCare\A-REF_I12-CPRS-RELEASED.txt -c 700_0000000809 -i 700v0000000609 -n "LastName,FirstName609" -nt -rt -st -w 1

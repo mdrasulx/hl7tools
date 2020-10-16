@@ -1,0 +1,2 @@
+ECHO Line 1
+dir *.txt
